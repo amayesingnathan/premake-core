@@ -12,6 +12,9 @@ obj
 release
 ipch
 src/scripts.c
+tests/
+websites/
+
 **.lnt
 **.vlstatus
 
